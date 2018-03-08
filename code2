@@ -33,6 +33,7 @@ namespace ConsoleApp330
             foreach (var user in users)
             {
                 Console.WriteLine($"{user.Key}->{user.Value}");
+Console.WriteLine($"{user.Key}->{user.Value}");
             }
         }
     }
